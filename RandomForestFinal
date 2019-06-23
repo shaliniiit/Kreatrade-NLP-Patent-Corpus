@@ -1,0 +1,24 @@
+#Importing libraries
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+
+#Importing dataset
+data = pd.read_csv('Salaries.csv')
+print(data)
+
+#Save all values in second column to x and third column to y
+x=data.iloc[:, 1:2].values
+print(x)
+y=data.iloc[:, 2].values
+
+#Fit Random Forest Regressor
+from sklearn.ensemble import RandomForestRegressor
+regressor=RandomForestRegressor(n_estimators=100, random_state=0)
+regressor.fit(x,y)
+
+#Predicting new result
+y-pred = regressor.predict(6.5)
+
+
+
