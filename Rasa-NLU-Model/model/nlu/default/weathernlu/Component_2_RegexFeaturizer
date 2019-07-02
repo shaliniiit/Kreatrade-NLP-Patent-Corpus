@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Cybersecurity",
+        "pattern": "Cybersecurity.*"
+    },
+    {
+        "name": "Cybersecurity",
+        "pattern": "cybersecurity.*"
+    },
+    {
+        "name": "Data Mining",
+        "pattern": "Data mining.*"
+    },
+    {
+        "name": "Data Mining",
+        "pattern": "data mining.*"
+    },
+    {
+        "name": "Graphene",
+        "pattern": "Graphene.*"
+    },
+    {
+        "name": "Graphene",
+        "pattern": "graphene.*"
+    },
+    {
+        "name": "Solar Energy",
+        "pattern": "Solar.*"
+    },
+    {
+        "name": "Solar Energy",
+        "pattern": "solar.*"
+    }
+]
