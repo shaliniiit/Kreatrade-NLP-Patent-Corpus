@@ -1,0 +1,295 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [
+      {
+        "name": "Solar Energy",
+        "pattern": "solar.*"
+      },
+      {
+        "name": "Cybersecurity",
+        "pattern": "cybersecurity.*"
+      },
+      {
+        "name": "Graphene",
+        "pattern": "graphene.*"
+      },
+      {
+        "name": "Data Mining",
+        "pattern": "data mining.*"
+      },
+      {
+        "name": "Solar Energy",
+        "pattern": "Solar.*"
+      },
+      {
+        "name": "Cybersecurity",
+        "pattern": "Cybersecurity.*"
+      },
+      {
+        "name": "Graphene",
+        "pattern": "Graphene.*"
+      },
+      {
+        "name": "Data Mining",
+        "pattern": "Data mining.*"
+      }
+    ],
+    "common_examples": [
+      {
+        "text": "Booster unit, power conditioners, and solar power generation system using them ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Direct beam solar lighting system ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Demounting of inverted metamorphic multijunction solar cells ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Thin-film solar reflectors deployable from an edge-stowed configuration ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Solar panel ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Reactive power compensation in solar power system",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "3-dimensional graphene structure and process for preparing and transferring the same ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "Resin plating method using graphene thin layer ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "Preparation method for three-dimensional porous graphene for supercapacitor ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "Doped graphene electronic material ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "A method graphene reinforced aluminum matrix composites prepared ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "Method for manufacturing graphene-coated object, negative electrode of secondary battery including graphene-coated object, and secondary battery including the negative electrode ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "Fabrication of single-crystalline graphene arrays ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "Collaborative internet data mining system ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "Context-aware cybersecurity training systems, apparatuses, and methods",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Portable wireless mobile device motion capture data mining system and method ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "Conversational data mining ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "A method and apparatus for sociological data mining ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "Data mining for managing marketing resources ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "Data mining based underwriting profitability analysis ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "Method and system for controlling context-aware cybersecurity training ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Online portal for improving cybersecurity risk scores ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Method of Secure Electric Power Grid Operations Using Common Cyber Security Services ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Cybersecurity system ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Cybersecurity training system with automated application of branded content ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Cyber-security system and methods thereof ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Solar energy reflecting film structure and process of manufacture therefor ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Methods of assembling solar energy collecting modules ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Apparatus for storing solar energy in synthetic fuels",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Modular passive solar energy heating unit employing phase change heat storage material which is clearly transparent when in its high-stored-energy liquid state",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Data display apparatus and method for displaying data mining results as multi-dimensional data ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "GUI guide for data mining ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "Collector for solar energy ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Process and apparatus for collecting solar energy ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Analysis and display of cybersecurity risks for enterprise data ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Cyber security analyzer ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Control system cyber security ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Collaborative system for cyber security analysis ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Analyzing cyber-security risks in an industrial control environment ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Computer security based on artificial intelligence ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Mock attack cybersecurity training system and methods ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Advanced processing of electronic messages with attachments in a cybersecurity system ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Advanced processing of electronic messages with attachments in a cybersecurity system ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Computerized system and method for providing cybersecurity detection and response functionality ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Doped graphene electronic material ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "Combination heating system including a conventional furnace, heat pump and solar energy subsystem ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "Smart data caching using data mining ",
+        "intent": "Data Mining",
+        "entities": []
+      },
+      {
+        "text": "A method graphene reinforced aluminum matrix composites prepared ",
+        "intent": "Graphene",
+        "entities": []
+      },
+      {
+        "text": "The solid multi-core thermal power generation plant and a cascade of thermoelectric conversion applications ",
+        "intent": "Solar Energy",
+        "entities": []
+      },
+      {
+        "text": "cybersecurity practical training system and method that reflects the intruder behavior patterns ",
+        "intent": "CyberSecurity",
+        "entities": []
+      },
+      {
+        "text": "Solar heat collection system capable of transmitting and focusing light beams by using optical cable ",
+        "intent": "Solar Energy",
+        "entities": []
+      }
+    ]
+  }
+}
